@@ -34,3 +34,5 @@ int main()
    std::cout << "Decrypted text: " << srcText;
 }
 ```
+
+<img width="230" alt="image" src="https://user-images.githubusercontent.com/78900834/180643240-d28ebf79-407d-4bb7-a0a6-1eccc5d3d09b.png">
